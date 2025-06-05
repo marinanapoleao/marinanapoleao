@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=770b1c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!;Be+Welcome+to+my+profile;My+name+is+Marina+Napoleão;I'm+29+years+old;I'm+from+Brazil;EBAC+Data+Scientist+Student;+:%29)](https://git.io/typing-svg)
 
+Marina Napoleão
 
  ### Main skills:
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;

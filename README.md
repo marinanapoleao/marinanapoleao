@@ -7,9 +7,8 @@ Marina Napoleão
 
 
  ### Main skills:
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; Cientista de Dados | Análise de Dados & Machine Learning | Power BI | Modelos Preditivos | Storytelling com Dados
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp; ![Machine Learning]()&nbsp; | ![Power BI]()&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp; ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)&nbsp; ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)&nbsp;
 
 ### Contact:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;napoleaosmarina@gmail.com

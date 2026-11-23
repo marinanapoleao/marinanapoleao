@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=770b1c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!;Be+Welcome+to+my+profile;My+name+is+Marina+Napoleão;I'm+29+years+old;I'm+from+Brazil;EBAC+Data+Scientist+Student;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=770b1c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!;Be+Welcome+to+my+profile;My+name+is+Marina+Napoleão;I'm+30+years+old;I'm+from+Brazil;EBAC+Data+Scientist+Student;+:%29)](https://git.io/typing-svg)
 
 
 Marina Napoleão
